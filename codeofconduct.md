@@ -1,4 +1,4 @@
-#**Principles**
+#Principles
 
 **Do Not Harass**
 
