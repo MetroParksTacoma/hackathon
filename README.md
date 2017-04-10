@@ -3,10 +3,12 @@ __April 14 - April 15, 2017. Tacoma, WA__
 
 ## Starter Topics 
 
+NOTE:  [2016 Metro Parks Tacoma - Community Survey Findings Report](https://github.com/MetroParksTacoma/hackathon/assets/publicrelations-marketing/Metro_Parks_Tacoma_Survey Findings Report_January_25_2016.pdf) - yearly report from over 641 survey respondents
+
 ## Data Resources
 
 ### Metro Parks
-Metro Parks Tacoma has made available both GIS and business specific data for the hackathon
+Metro Parks Tacoma has made available both Geospatial and non-spatial data available for the hackathon:
 
 * Metro Parks Open Data Portal
 
