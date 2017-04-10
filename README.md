@@ -17,7 +17,7 @@ Metro Parks Tacoma has made available both GIS and business specific data for th
 ## Developer Resources
 
 * [ArcGIS for Developers](https://developers.arcgis.com/) - sign up for a developer account.  Free credits.
-* [ArcGIS for Developers Labs] (https://developers.arcgis.com/labs/) - get up and running with Esri technology in 15 minutes.
+* [ArcGIS for Developers Labs](https://developers.arcgis.com/labs/) - get up and running with Esri technology in 15 minutes.
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
 * [Map School](http://mapschool.io/)
 
