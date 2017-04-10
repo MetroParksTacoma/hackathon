@@ -26,7 +26,7 @@ Metro Parks Tacoma has made available both GIS and business specific data for th
 ### OpenStreetMap
 
 * OpenStreetMap Extracts via [Mapzen Extracts](https://mapzen.com/data/metro-extracts/) - when you want raw OSM data.
-* [Overpass Turbo] (https://overpass-turbo.eu/) - allows you to extract data by a defined area of interest (AOI)
+* [Overpass Turbo](https://overpass-turbo.eu/) - allows you to extract data by a defined area of interest (AOI)
 
 ### Mapping APIs
 
