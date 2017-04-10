@@ -3,7 +3,7 @@ __April 14 - April 15, 2017. Tacoma, WA__
 
 ## Starter Topics 
 
-*[2016 Metro Parks Tacoma Community Survey Findings Report](hackathon/assets/publicrelations-marketing/Metro_Parks_Tacoma_Survey_Findings Report_January_25_2016.pdf)
+* [2016 Metro Parks Tacoma Community Survey Findings Report](hackathon/assets/publicrelations-marketing/Metro_Parks_Tacoma_Survey_Findings Report_January_25_2016.pdf)
 
 ## Data Resources
 
