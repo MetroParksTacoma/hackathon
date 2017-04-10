@@ -13,6 +13,9 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 ### Pierce County, WA
 * [Pierce County Washington Open Data Portal](http://gisdata-piercecowa.opendata.arcgis.com/)
 
+### City of Tacoma, WA
+* [City of Tacoma GIS Data](http://wspdsmap.ci.tacoma.wa.us/samples/disclaimer.asp?theOption=2)
+
 
 ## Developer Resources
 
