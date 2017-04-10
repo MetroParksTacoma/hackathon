@@ -15,12 +15,13 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 
 ### City of Tacoma, WA
 * [City of Tacoma GIS Data](http://wspdsmap.ci.tacoma.wa.us/samples/disclaimer.asp?theOption=2)
-
+* [City of Tacoma Open Data Portal(https://data.cityoftacoma.org/browse) - Powered by Socrata
 
 ## Developer Resources
 
 * [ArcGIS for Developers](https://developers.arcgis.com/) - sign up for a developer account.  Free credits.
 * [ArcGIS for Developers Labs](https://developers.arcgis.com/labs/) - get up and running with Esri technology in 15 minutes.
+* [Socrata Developer Resources](https://dev.socrata.com/) - applicable if you are using Open Data from City of Tacoma.
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)
 * [Map School](http://mapschool.io/)
 
