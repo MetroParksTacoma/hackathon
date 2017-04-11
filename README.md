@@ -22,10 +22,11 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 * [Washington Hometown](http://www.washingtonhometown.com/)
   - Washington Hometown is about "community sourcing" rather than crowd sourcing. We work with local community and interest groups to gather and maintain information about special places in our state. The data that we gather is used to create maps and support education, helping people learn about our state.  Washington Hometown has provided data for the hackathon:
   
+  
 | Layer Name  	|  CSV Format 	|  KML Format 	|  GEOJSON Format 	|  Esri Shapefile Format 	|
 |---	|---	|---	|---	|---	|
 | Hackathon Areas  	|  [.csv](hackathon/data/washington_hometown/Hackathon_Areas.csv) 	|  [.kml](hackathon/data/washington_hometown/Hackathon_Areas.kml) 	| [.geojson](hackathon/data/washington_hometown/Hackathon_Areas.geojson)  	|   [.shp](hackathon/data/washington_hometown/Hackathon_Areas.zip)	|
-| Hackathon Points  	|   	|   	|   	|   	|
+| Hackathon Points  	|  [.csv](hackathon/data/washington_hometown/Hackathon_Points.csv) 	| [.kml](hackathon/data/washington_hometown/Hackathon_Points.kml)  	|  [.geojson](hackathon/data/washington_hometown/Hackathon_Points.geojson) 	|  [.shp](hackathon/data/washington_hometown/Hackathon_Points.shp) 	|
 | Hackathon Trails Lines  	|   	|   	|   	|   	|
 
 TODO add table with data listings
