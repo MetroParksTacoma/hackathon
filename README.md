@@ -25,9 +25,9 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
   
 | Layer Name  	|  CSV Format 	|  KML Format 	|  GEOJSON Format 	|  Esri Shapefile Format 	|
 |---	|---	|---	|---	|---	|
-| Hackathon Areas  	|  [.csv](hackathon/data/washington_hometown/Hackathon_Areas.csv) 	|  [.kml](hackathon/data/washington_hometown/Hackathon_Areas.kml) 	| [.geojson](hackathon/data/washington_hometown/Hackathon_Areas.geojson)  	|   [.shp](hackathon/data/washington_hometown/Hackathon_Areas.zip)	|
-| Hackathon Points  	|  [.csv](hackathon/data/washington_hometown/Hackathon_Points.csv) 	| [.kml](hackathon/data/washington_hometown/Hackathon_Points.kml)  	|  [.geojson](hackathon/data/washington_hometown/Hackathon_Points.geojson) 	|  [.shp](hackathon/data/washington_hometown/Hackathon_Points.shp) 	|
-| Hackathon Trails Lines  	|  [.csv](hackathon/data/washington_hometown/HackathonTrails_Lines.csv) 	|  [.kml](hackathon/data/washington_hometown/HackathonTrails_Lines.kml) 	|  [.geojson](hackathon/data/washington_hometown/HackathonTrails_Lines.geojson) 	|  [.shp](hackathon/data/washington_hometown/HackathonTrails_Lines.shp) 	|
+| Hackathon Areas  	|  [.csv](data/washington_hometown/Hackathon_Areas.csv) 	|  [.kml](data/washington_hometown/Hackathon_Areas.kml) 	| [.geojson](data/washington_hometown/Hackathon_Areas.geojson)  	|   [.shp](data/washington_hometown/Hackathon_Areas.zip)	|
+| Hackathon Points  	|  [.csv](data/washington_hometown/Hackathon_Points.csv) 	| [.kml](data/washington_hometown/Hackathon_Points.kml)  	|  [.geojson](data/washington_hometown/Hackathon_Points.geojson) 	|  [.shp](data/washington_hometown/Hackathon_Points.shp) 	|
+| Hackathon Trails Lines  	|  [.csv](data/washington_hometown/HackathonTrails_Lines.csv) 	|  [.kml](data/washington_hometown/HackathonTrails_Lines.kml) 	|  [.geojson](data/washington_hometown/HackathonTrails_Lines.geojson) 	|  [.shp](data/washington_hometown/HackathonTrails_Lines.shp) 	|
 
 
 ### Pierce County, WA
