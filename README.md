@@ -3,7 +3,7 @@ __April 14 - April 15, 2017. Tacoma, WA__
 
 ## Starter Topics 
 
-## Data Resources
+## Data Resources - State | County | City | Metro Parks
 
 ### Metro Parks
 Metro Parks Tacoma has made available both Geospatial and non-spatial data available for the hackathon:
@@ -16,6 +16,17 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 ### City of Tacoma, WA
 * [City of Tacoma GIS Data](http://wspdsmap.ci.tacoma.wa.us/samples/disclaimer.asp?theOption=2)
 * [City of Tacoma Open Data Portal](https://data.cityoftacoma.org/browse) - Powered by Socrata
+
+## Data Resources - Private Sector
+
+* Washington Hometown
+
+TODO add table with data listings
+
+### Pierce County, WA
+* [Pierce County Washington Open Data Portal](http://gisdata-piercecowa.opendata.arcgis.com/)
+
+
 
 ## Developer Resources
 
