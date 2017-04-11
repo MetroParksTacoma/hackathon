@@ -27,9 +27,8 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 |---	|---	|---	|---	|---	|
 | Hackathon Areas  	|  [.csv](hackathon/data/washington_hometown/Hackathon_Areas.csv) 	|  [.kml](hackathon/data/washington_hometown/Hackathon_Areas.kml) 	| [.geojson](hackathon/data/washington_hometown/Hackathon_Areas.geojson)  	|   [.shp](hackathon/data/washington_hometown/Hackathon_Areas.zip)	|
 | Hackathon Points  	|  [.csv](hackathon/data/washington_hometown/Hackathon_Points.csv) 	| [.kml](hackathon/data/washington_hometown/Hackathon_Points.kml)  	|  [.geojson](hackathon/data/washington_hometown/Hackathon_Points.geojson) 	|  [.shp](hackathon/data/washington_hometown/Hackathon_Points.shp) 	|
-| Hackathon Trails Lines  	|   	|   	|   	|   	|
+| Hackathon Trails Lines  	|  [.csv](hackathon/data/washington_hometown/HackathonTrails_Lines.csv) 	|  [.kml](hackathon/data/washington_hometown/HackathonTrails_Lines.kml) 	|  [.geojson](hackathon/data/washington_hometown/HackathonTrails_Lines.geojson) 	|  [.shp](hackathon/data/washington_hometown/HackathonTrails_Lines.shp) 	|
 
-TODO add table with data listings
 
 ### Pierce County, WA
 * [Pierce County Washington Open Data Portal](http://gisdata-piercecowa.opendata.arcgis.com/)
