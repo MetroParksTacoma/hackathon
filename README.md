@@ -86,5 +86,5 @@ Mobile SDKs
 
 ## Code of Conduct
 
-* Please review our [code of conduct] for the hackathon
+* Please review our [code of conduct](https://github.com/MetroParksTacoma/hackathon/blob/master/codeofconduct.md) for the hackathon
 
