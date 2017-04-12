@@ -14,7 +14,7 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 
 |File Description   | Comments  |
 |---|---|
-|[a link](http://www.cnn.com)|   |
+|[a link](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/MLCPP%20Comprehensive%20Matrix.xlsx)|   |
 | Tacoma Parks Survey Data |   |
 
 * MLCPP Comprehensive Matrix](hackathon/data/metro_parks/MLCPP Comprehensive Matrix.xlsx)
