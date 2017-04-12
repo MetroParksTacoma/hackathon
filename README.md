@@ -10,6 +10,13 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 
 * Metro Parks Open Data Portal
 
+* Metro Parks Non-Spatial Data
+
+|Description   | Path to Data  |
+|---|---|
+| MLCPP Comprehensive Matrix  |   |
+| Tacoma Parks Survey Data |   |
+
 ### Pierce County, WA
 * [Pierce County Washington Open Data Portal](http://gisdata-piercecowa.opendata.arcgis.com/)
 
