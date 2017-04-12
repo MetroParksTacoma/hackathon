@@ -14,7 +14,7 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 
 |File Description   | Comments  |
 |---|---|
-| [MLCPP Comprehensive Matrix](hackathon/data/metro_parks/MLCPP Comprehensive Matrix.xlsx)  |  hackathon/data/metro_parks/MLCPP Comprehensive Matrix.xlsx |
+| [MLCPP Comprehensive Matrix](/data/metro_parks/MLCPP Comprehensive Matrix.xlsx)  |   |
 | Tacoma Parks Survey Data |   |
 
 ### Pierce County, WA
