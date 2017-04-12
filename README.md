@@ -12,10 +12,10 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 
 * Metro Parks Non-Spatial Data
 
-|File Description   | Comments  |
-|---|---|
-|[MLCPP Comprehensive Matrix](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/MLCPP%20Comprehensive%20Matrix.xlsx)|   |
-| [Tacoma Parks Survey Data](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/MLCPP%20Comprehensive%20Matrix.xlsx) |   |
+  |File Description   | Comments  |
+  |---|---|
+  |[MLCPP Comprehensive Matrix](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/MLCPP%20Comprehensive%20Matrix.xlsx)|   |
+  | [Tacoma Parks Survey Data](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/MLCPP%20Comprehensive%20Matrix.xlsx) |   |
 
 * MLCPP Comprehensive Matrix](hackathon/data/metro_parks/MLCPP Comprehensive Matrix.xlsx)
 ### Pierce County, WA
