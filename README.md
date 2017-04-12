@@ -3,12 +3,25 @@ __April 14 - April 15, 2017. Tacoma, WA__
 
 ## Starter Topics 
 
+TODO Add Topics
+
 ## Data Resources - State | County | City | Metro Parks
 
 ### Metro Parks
 Metro Parks Tacoma has made available both Geospatial and non-spatial data available for the hackathon:
 
 * Metro Parks Open Data Portal
+
+* Metro Parks Non-Spatial Data
+
+  |File Description   | Comments  |
+  |---|---|
+  |[MLCPP Comprehensive Matrix](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/MLCPP%20Comprehensive%20Matrix.xlsx)|   |
+  | [Tacoma Parks Survey Data](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/TacomaParksSurvey%20Data%20for%20MLCPP.xlsx) |   |
+
+* [Metro Parks Tacoma - Community Interest Report 2016](https://github.com/MetroParksTacoma/hackathon/blob/master/assets/publicrelations-marketing/Metro_Parks_Tacoma_Survey_Findings%20Report_January_25_2016.pdf)
+
+* [Metro Parks Tacoma - Mission-Led Comprehensive Plan](https://github.com/MetroParksTacoma/hackathon/blob/master/assets/publicrelations-marketing/MLCPP_Final_Report.pdf)
 
 ### Pierce County, WA
 * [Pierce County Washington Open Data Portal](http://gisdata-piercecowa.opendata.arcgis.com/)
@@ -32,7 +45,6 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 
 ### Pierce County, WA
 * [Pierce County Washington Open Data Portal](http://gisdata-piercecowa.opendata.arcgis.com/)
-
 
 
 ## Developer Resources
@@ -70,7 +82,11 @@ Mobile SDKs
 * [Mapzen Mobile SDKs](https://mapzen.com/projects/mobile/)
 
 
-## Tips
-
 ## Communication
+
+* We are on [Slack](https://metroparkshackathon.slack.com).  Join the conversation.
+
+## Code of Conduct
+
+* Please review our [code of conduct](https://github.com/MetroParksTacoma/hackathon/blob/master/codeofconduct.md) for the hackathon
 
