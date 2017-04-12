@@ -17,7 +17,7 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
   |File Description   | Comments  |
   |---|---|
   |[MLCPP Comprehensive Matrix](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/MLCPP%20Comprehensive%20Matrix.xlsx)|   |
-  | [Tacoma Parks Survey Data](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/TacomaParksSurvey%20Data%20for%20MLCPP.xlsx) |   |
+  | [Tacoma Parks Survey Data](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/TacomaParksSurvey%20Data%20for%20MLCPP.xlsx) | [The original form can be found here](https://github.com/MetroParksTacoma/hackathon/blob/master/data/metro_parks/MPTacoma%20-Survey%20November%206_final.pdf)  |
 
 * [Metro Parks Tacoma - Community Interest Report 2016](https://github.com/MetroParksTacoma/hackathon/blob/master/assets/publicrelations-marketing/Metro_Parks_Tacoma_Survey_Findings%20Report_January_25_2016.pdf)
 
