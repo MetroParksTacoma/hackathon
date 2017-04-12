@@ -3,6 +3,8 @@ __April 14 - April 15, 2017. Tacoma, WA__
 
 ## Starter Topics 
 
+TODO Add Topics
+
 ## Data Resources - State | County | City | Metro Parks
 
 ### Metro Parks
@@ -78,7 +80,11 @@ Mobile SDKs
 * [Mapzen Mobile SDKs](https://mapzen.com/projects/mobile/)
 
 
-## Tips
-
 ## Communication
+
+* We are on [Slack](https://metroparkshackathon.slack.com).  Join the conversation.
+
+## Code of Conduct
+
+* Please review our [code of conduct] for the hackathon
 
