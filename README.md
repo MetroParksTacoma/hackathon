@@ -1,9 +1,6 @@
 # Hackathon - Parks and People United Through Technology   
 __April 14 - April 15, 2017. Tacoma, WA__
 
-## Starter Topics 
-
-TODO Add Topics
 
 ## Data Resources - State | County | City | Metro Parks
 
