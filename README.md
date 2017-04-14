@@ -63,20 +63,27 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 
 There are a number of mapping APIs that you can work with to work with data on the web and/or on a mobile device.
 
-JavaScript Web APIs
+**JavaScript Web APIs**
 
 * [Esri ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/ "Esri JavaScript API")
 * [Leaflet](http://leafletjs.com/)
 * [Esri-Leaflet](https://esri.github.io/esri-leaflet/)
-* See [Additional APIs for more mapping APIs]()
+* See [Additional APIs for more mapping APIs](https://github.com/MetroParksTacoma/hackathon/blob/master/additionalapis)
 
 
-Mobile SDKs
+**Mobile SDKs**
 
 * [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/)
 * [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/)
 * [ArcGIS Runtime SDK for Qt](https://developers.arcgis.com/qt/)
+* See [Additional APIs for more mapping APIs](https://github.com/MetroParksTacoma/hackathon/blob/master/additionalapis)
 
+## Final Presentation Guidelines
+All of the presentations will be done from one laptop.  In an effort to 
+* Please limit your presentation to five minutes or less.
+* If you have slides, please export them as a PDF.
+* All presentations will be commited to this repository.  **Please issue a pull request to commit your presentation prior to 12:00 pm on Saturday**
+* If you would like to show a live demo, please make sure that the application is publicly available.
 
 
 ## Communication
