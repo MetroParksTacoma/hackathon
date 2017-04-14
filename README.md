@@ -79,7 +79,7 @@ There are a number of mapping APIs that you can work with to work with data on t
 * See [Additional APIs for more mapping APIs](https://github.com/MetroParksTacoma/hackathon/blob/master/additionalapis)
 
 ## Final Presentation Guidelines
-All of the presentations will be done from one laptop.  In an effort to 
+All of the presentations will be done from one laptop.   
 * Please limit your presentation to five minutes or less.
 * If you have slides, please export them as a PDF.
 * All presentations will be commited to this repository.  **Please issue a pull request to commit your presentation prior to 12:00 pm on Saturday**
