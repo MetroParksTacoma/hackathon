@@ -40,9 +40,6 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 | Hackathon Trails Lines  	|  [.csv](data/washington_hometown/HackathonTrails_Lines.csv) 	|  [.kml](data/washington_hometown/HackathonTrails_Lines.kml) 	|  [.geojson](data/washington_hometown/HackathonTrails_Lines.geojson) 	|  [.shp](data/washington_hometown/HackathonTrails_Lines.shp) 	|
 
 
-### Pierce County, WA
-* [Pierce County Washington Open Data Portal](http://gisdata-piercecowa.opendata.arcgis.com/)
-
 
 ## Developer Resources
 
