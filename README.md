@@ -7,7 +7,7 @@ __April 14 - April 15, 2017. Tacoma, WA__
 ### Metro Parks
 Metro Parks Tacoma has made available both Geospatial and non-spatial data available for the hackathon:
 
-* [Metro Parks Open Data GIS Portal](http://mpthackathon-mpt.opendata.arcgis.com/datasets) - TONS OF DATA HERE
+* [Metro Parks Open Data GIS Portal](http://data-mpt.opendata.arcgis.com/datasets) - TONS OF DATA HERE
 
 * Metro Parks Non-Spatial Data
 
