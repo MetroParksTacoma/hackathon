@@ -83,6 +83,7 @@ All of the presentations will be done from one laptop.  In an effort to
 * Please limit your presentation to five minutes or less.
 * If you have slides, please export them as a PDF.
 * All presentations will be commited to this repository.  **Please issue a pull request to commit your presentation prior to 12:00 pm on Saturday**
+  * [Learn more about contributing a pull requests.](https://github.com/Esri/contributing#contributing)
 * If you would like to show a live demo, please make sure that the application is publicly available.
 
 
