@@ -25,7 +25,7 @@ Metro Parks Tacoma has made available both Geospatial and non-spatial data avail
 
 ### City of Tacoma, WA
 * [City of Tacoma GIS Data](http://wspdsmap.ci.tacoma.wa.us/samples/disclaimer.asp?theOption=2)
-* [City of Tacoma Open Data Portal](https://data.cityoftacoma.org/browse) - Powered by Socrata
+* [City of Tacoma Open Data Portal](https://data.cityoftacoma.org/browse)
 
 ## Data Resources - Private Sector
 
@@ -66,17 +66,17 @@ There are a number of mapping APIs that you can work with to work with data on t
 JavaScript Web APIs
 
 * [Esri ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/ "Esri JavaScript API")
-* [Mapbox GLJS](https://www.mapbox.com/mapbox-gl-js/api/)
 * [Leaflet](http://leafletjs.com/)
-* [Mapzen Tanagram](https://mapzen.com/products/tangram/)
+* [Esri-Leaflet](https://esri.github.io/esri-leaflet/)
+* See [Additional APIs for more mapping APIs]()
+
 
 Mobile SDKs
 
 * [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/)
 * [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/)
 * [ArcGIS Runtime SDK for Qt](https://developers.arcgis.com/qt/)
-* [Mapbox Android SDK](https://www.mapbox.com/android-sdk/)
-* [Mapzen Mobile SDKs](https://mapzen.com/projects/mobile/)
+
 
 
 ## Communication
